@@ -1,4 +1,4 @@
-# RICOH THETA IFTTT Sample
+# RICOH THETA Plug-in IFTTT Sample
 
 撮影ボタンを押すと IFTTT の Webhoook URL にリクエストを送るサンプルプラグインです。
 
